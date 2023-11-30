@@ -8,10 +8,6 @@ import florist.database;
 import java.util.ArrayList;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author acer
- */
 public class update extends javax.swing.JFrame {
 
     /**
